@@ -2,7 +2,7 @@
   <img src="https://github.com/glebio/glebio/raw/main/logo_qaresults_crop_with_text.png" alt="QA Results – Automation, Insights & Tech" width="50%" />
 </p>
 
-# 👋 Hi, I’m **Hleb** – Senior Test Automation Engineer
+# 👋 Hi, I’m **Hleb** – Test Automation Expert (> 10 years)
 
 Welcome to my GitHub space! Here’s what you’ll find and why you might want to stick around.
 
