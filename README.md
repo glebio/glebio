@@ -21,15 +21,16 @@ Welcome to my GitHub space! Here’s what you’ll find and why you might want t
 ---
 
 ## 🚀 Tech Stack & Tools
-
-[](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white)
-[](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
-[](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-[](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-[](https://img.shields.io/badge/-Jenkins-D33833?logo=jenkins&logoColor=white)
-[](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-[](https://img.shields.io/badge/-Allure%20Report-ef5b9c?logo=allure&logoColor=white)
-[](https://img.shields.io/badge/-k6-7B45F1?logo=k6&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
 ---
 
