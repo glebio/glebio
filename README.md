@@ -10,11 +10,6 @@ Welcome to my GitHub space! Here’s what you’ll find and why you might want t
 
 ## 📝 What I Share
 
-| Section | What to expect |
-| --- | --- |
-| **QA Results Blog** | Deep-dive articles and bite-size tips on test automation, Playwright, Cypress, API-testing, CI/CD, and quality strategy |
-| **Public Repos** | Starter frameworks, demo projects, and utilities I build (or break) in the open |
-
 > Mission: turn real-world pain points into reusable solutions and share the lessons learned.
 > 
 
