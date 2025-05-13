@@ -4,14 +4,13 @@
 
 # 👋 Hi, I’m **Hleb** – Test Automation Consultant
 
-Welcome to my GitHub space! Here’s what you’ll find and why you might want to stick around.
+Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Business Owner**, you'll find a lot of valuable content here:  
 
----
+📚 **[Insights Blog](https://qaresults.com)** – Practical advice, industry insights, and real-world automation examples.  
+🔗 **[GitHub Projects](https://github.com/glebio)** – Explore my open-source projects, test automation frameworks, and tools.  
+🛒 **[Test Online Store](https://shop.qaresults.com)** – A fully functional test e-commerce site for practicing automation.  
 
-## 📝 What I Share
-
-> Mission: turn real-world pain points into reusable solutions and share the lessons learned.
-> 
+Feel free to **connect** and **collaborate** – I'm always open to new ideas and projects!  
 
 ---
 
@@ -53,14 +52,6 @@ Our team has developed a **test-only online store** specifically for automation 
 
 > ⚠️ Note: This store is for testing purposes only and does not process real orders or transactions.
 > 
-
----
-
-## 📈 Fun Numbers (GitHub stats)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=glebio&show_icons=true&theme=react&hide=contribs,prs"/>
-</p>
 
 ---
 
