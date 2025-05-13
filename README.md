@@ -11,6 +11,7 @@ Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Busi
 🛒 **[Test Online Store](https://shop.qaresults.com)** – A fully functional test e-commerce site for practicing automation.  
 
 Feel free to **connect** and **collaborate** – I'm always open to new ideas and projects!  
+💼 **LinkedIn:** [linkedin.com/in/hlebmatsiash](https://www.linkedin.com/in/hlebmatsiash/)
 
 ---
 
@@ -25,14 +26,6 @@ Feel free to **connect** and **collaborate** – I'm always open to new ideas an
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-
----
-
-## 🌱 Currently Exploring
-
-- **Recommendation Systems** for e-commerce personalization
-- **Data Engineering** with Spark, Kafka, and BigQuery
-- **ML Model Serving** with Kubernetes and FastAPI
 
 ---
 
@@ -60,12 +53,6 @@ Our team has developed a **test-only online store** specifically for automation 
 - 🌐 **Blog:** [qaresults.com](https://qaresults.com/)
 - 💼 **LinkedIn:** [linkedin.com/in/hlebmatsiash](https://www.linkedin.com/in/hlebmatsiash/)
 
-> “Quality is built, not bolted.”
-> 
-> 
-> If that resonates, feel free to ⭐ repo, open an issue, or just say hi!
-> 
-
 ---
 
-*Made with ☕, Playwright, and a healthy dose of curiosity.*
+*Made with ☕, Typescript, and a healthy dose of curiosity.*
