@@ -53,6 +53,3 @@ Our team has developed a **test-only online store** specifically for automation 
 - 🌐 **Blog:** [qaresults.com](https://qaresults.com/)
 - 💼 **LinkedIn:** [linkedin.com/in/hlebmatsiash](https://www.linkedin.com/in/hlebmatsiash/)
 
----
-
-*Made with ☕, Typescript, and a healthy dose of curiosity.*
