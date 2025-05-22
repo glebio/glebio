@@ -45,7 +45,7 @@ Our team has developed a **test-only online store** specifically for automation 
 
 Explore open-source repositories designed to help testers and developers accelerate their automation work:
 
-- 🛍️ [ecommerce-tests-playwright](https://github.com/glebio/ecommerce-tests-playwright) – A Playwright-based automation framework for E-commerce UI testing using TypeScript.
+- 🛍️ [ecommerce_playwright_project](https://github.com/glebio/ecommerce_playwright_project) – A Playwright-based automation framework for E-commerce UI testing using TypeScript.
 - 🛍️ [ecommerce-tests-cypress](https://github.com/glebio/ecommerce-tests-cypress) – UI test automation framework using Cypress and TypeScript for E-commerce scenarios.
 
 ---
