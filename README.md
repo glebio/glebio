@@ -8,9 +8,9 @@ Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Busi
 
 📚 **[Insights Blog](https://qaresults.com)** – Practical advice, industry insights, and real-world automation examples.  
 
-🛒 **[Test Online Store](https://shop.qaresults.com)** – A fully functional test e-commerce site for practicing automation.  
+🛒 **[Test Online Store](https://shop.qaresults.com)** – A fully functional test E-commerce site for practicing automation.  
 
-🔗 **[GitHub Projects](https://github.com/glebio)** – Explore my open-source projects, test automation frameworks, and tools.  
+🔗 **[GitHub Projects](https://github.com/glebio)** – Explore ready to use Test Automation Frameworks.
 
 Feel free to **connect** and **collaborate** – I'm always open to new ideas and projects!  
 💼 **LinkedIn:** [linkedin.com/in/hlebmatsiash](https://www.linkedin.com/in/hlebmatsiash/)
