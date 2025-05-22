@@ -10,7 +10,7 @@ Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Busi
 
 🛒 **[Test Online Store](https://github.com/glebio#-test-only-online-store-for-automation)** – A fully functional test E-commerce site for practicing automation.  
 
-🔗 **[GitHub Projects](https://github.com/glebio)** – Explore ready to use Test Automation Frameworks.
+🔗 **[GitHub Projects](https://github.com/glebio#-projects-repositories)** – Explore ready to use Test Automation Frameworks.
 
 Feel free to **connect** and **collaborate** – I'm always open to new ideas and projects!  
 💼 **LinkedIn:** [linkedin.com/in/hlebmatsiash](https://www.linkedin.com/in/hlebmatsiash/)
@@ -39,6 +39,15 @@ Our team has developed a **test-only online store** specifically for automation 
 
 > ⚠️ Note: This store is for testing purposes only and does not process real orders or transactions.
 > 
+
+---
+
+## 📁 Projects & Repositories
+
+Explore my open-source repositories designed to help testers and developers accelerate their automation work:
+
+- 🛍️ [ecommerce-tests-playwright](https://github.com/glebio/ecommerce-tests-playwright) – A Playwright-based automation framework for E-commerce UI testing using TypeScript.
+- 🛍️ [ecommerce-tests-cypress](https://github.com/glebio/ecommerce-tests-cypress) – UI test automation framework using Cypress and TypeScript for E-commerce scenarios.
 
 ---
 
