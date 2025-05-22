@@ -35,14 +35,6 @@ Feel free to **connect** and **collaborate** – I'm always open to new ideas an
 
 Our team has developed a **test-only online store** specifically for automation testing, providing a sandbox environment to simulate real-world e-commerce workflows.
 
-### 💡 Key Features:
-
-- **Realistic Product Catalog** – Test against real-world scenarios
-- **Flexible API Integration** – Validate API endpoints and data flows
-- **Dynamic User Journeys** – Automate end-to-end user flows
-- **Performance & Load Testing** – Push the limits without affecting real users
-- **Custom Test Data** – Easily reset and control test environments
-
 ### 🌐 Visit the Demo Store: [shop.qaresults.com](https://shop.qaresults.com/)
 
 > ⚠️ Note: This store is for testing purposes only and does not process real orders or transactions.
