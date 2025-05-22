@@ -6,7 +6,7 @@
 
 Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Business Owner**, you'll find a lot of valuable content here:  
 
-📚 **[Insights Blog](https://qaresults.com)** – Practical advice, industry insights, and real-world automation examples.  
+📚 **<a href="https://qaresults.com" target="_blank" rel="noopener noreferrer">Insights Blog</a>** – Practical advice, industry insights, and real-world automation examples.  
 🔗 **[GitHub Projects](https://github.com/glebio)** – Explore my open-source projects, test automation frameworks, and tools.  
 🛒 **[Test Online Store](https://shop.qaresults.com)** – A fully functional test e-commerce site for practicing automation.  
 
