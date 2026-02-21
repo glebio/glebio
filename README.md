@@ -16,6 +16,19 @@ Regardless of whether you're a **Tester**, **Developer**, **Manager**, or **Busi
 
 ---
 
+## 🧑‍💻 Author’s note
+
+Test automation is a product too. It must deliver business value (fast feedback and confidence), but it also has to be:
+
+- easy to read
+- easy to maintain
+- easy to extend
+- easy to debug — even by someone who didn’t write it
+
+The goal is not “more tests”. The goal is a reliable signal that scales.
+
+---
+
 ## 🚀 Tech Stack & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
