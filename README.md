@@ -23,7 +23,7 @@ Test automation is a product too. It must deliver business value (fast feedback 
 - easy to read
 - easy to maintain
 - easy to extend
-- easy to debug — even by someone who didn’t write it
+- easy to debug even by someone who didn’t write it
 
 The goal is not “more tests”. The goal is a reliable signal that scales.
 
